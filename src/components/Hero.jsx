@@ -5,7 +5,7 @@ function Hero() {
   return (
     <div className='text-white'>
         <div className='mt-[-96px] w-full max-w-[800px] h-screen mx-auto text-center flex flex-col justify-center'>
-            <p className='text-red-500 font-bold p-2'>GROWING WITH DATA ANALYTICS</p>
+            <p className='text-primary font-bold p-2'>GROWING WITH DATA ANALYTICS</p>
             <h1 className='font-bold text-4xl sm:text-6xl md:text-7xl md:py-6'>Grow with data.</h1>
             <div className='flex justify-center items-center'>
                 <p className='font-bold text-xl sm:text-4xl md:text-5xl py-2'>Fast , Flexible financing for</p>
